@@ -13,7 +13,7 @@ At home whenever I am not busy with other stuff.
 
 ## What are you doing well in the subject so far that you will keep doing?
 
-I am enjoying this subject as a whole, and especially like that I can do it at my own pace while keeping up weekly deadlines.
+I feel like I am doing well in most areas of this subject.
 
 ## What do you need to stop or change in your work for this subject overall so far?
 
