@@ -32,7 +32,7 @@ def main():
                 print('No score saved.')
 
         elif choice == "Q":
-            print("Finished")
+            print("Thank you for using this program.")
 
         else:
             print("Invalid input")
