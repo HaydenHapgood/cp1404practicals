@@ -58,7 +58,6 @@ def is_valid_password(password):
     if has_lower and has_upper and has_digit and has_special:
         return True
     else:
-        print("Invalid password.")
         return False
 
 main()
