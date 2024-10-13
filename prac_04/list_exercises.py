@@ -1,8 +1,14 @@
 numbers = []
-for i in range(5):
-    value = int(input("Enter a number: "))
+value = 1
+runs = 0
+print('Enter numbers below (Enter value < 0 to finish, this value will not be included.)')
+while value > 0:
+    runs += 1
+    value = int(input(f"Number {runs}: "))
     numbers.append(value)
-
+if value >= 0:
+    numbers = numbers[:-1]
+    print('Finished.')
 print(f'The first number is: {numbers[0]}')
 print(f'The last number is: {numbers[-1]}')
 print(f'The smallest number is: {min(numbers)}')
